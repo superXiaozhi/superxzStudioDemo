@@ -1,0 +1,58 @@
+[
+    {
+        "merged": "E:\\workplace_studio\\NewDhDemo\\superxz_bottom\\build\\intermediates\\res\\merged\\debug\\anim\\slide_out_right.xml",
+        "source": "E:\\workplace_studio\\NewDhDemo\\superxz_bottom\\res\\anim\\slide_out_right.xml"
+    },
+    {
+        "merged": "E:\\workplace_studio\\NewDhDemo\\superxz_bottom\\build\\intermediates\\res\\merged\\debug\\anim\\slide_in_from_right.xml",
+        "source": "E:\\workplace_studio\\NewDhDemo\\superxz_bottom\\res\\anim\\slide_in_from_right.xml"
+    },
+    {
+        "merged": "E:\\workplace_studio\\NewDhDemo\\superxz_bottom\\build\\intermediates\\res\\merged\\debug\\anim\\slide_out_to_left.xml",
+        "source": "E:\\workplace_studio\\NewDhDemo\\superxz_bottom\\res\\anim\\slide_out_to_left.xml"
+    },
+    {
+        "merged": "E:\\workplace_studio\\NewDhDemo\\superxz_bottom\\build\\intermediates\\res\\merged\\debug\\anim\\slide_out_to_right.xml",
+        "source": "E:\\workplace_studio\\NewDhDemo\\superxz_bottom\\res\\anim\\slide_out_to_right.xml"
+    },
+    {
+        "merged": "E:\\workplace_studio\\NewDhDemo\\superxz_bottom\\build\\intermediates\\res\\merged\\debug\\anim\\slide_from_right_slow.xml",
+        "source": "E:\\workplace_studio\\NewDhDemo\\superxz_bottom\\res\\anim\\slide_from_right_slow.xml"
+    },
+    {
+        "merged": "E:\\workplace_studio\\NewDhDemo\\superxz_bottom\\build\\intermediates\\res\\merged\\debug\\anim\\slide_out_to_bottom.xml",
+        "source": "E:\\workplace_studio\\NewDhDemo\\superxz_bottom\\res\\anim\\slide_out_to_bottom.xml"
+    },
+    {
+        "merged": "E:\\workplace_studio\\NewDhDemo\\superxz_bottom\\build\\intermediates\\res\\merged\\debug\\anim\\slide_out_to_top.xml",
+        "source": "E:\\workplace_studio\\NewDhDemo\\superxz_bottom\\res\\anim\\slide_out_to_top.xml"
+    },
+    {
+        "merged": "E:\\workplace_studio\\NewDhDemo\\superxz_bottom\\build\\intermediates\\res\\merged\\debug\\anim\\slide_to_left_slow.xml",
+        "source": "E:\\workplace_studio\\NewDhDemo\\superxz_bottom\\res\\anim\\slide_to_left_slow.xml"
+    },
+    {
+        "merged": "E:\\workplace_studio\\NewDhDemo\\superxz_bottom\\build\\intermediates\\res\\merged\\debug\\anim\\slide_in_from_left.xml",
+        "source": "E:\\workplace_studio\\NewDhDemo\\superxz_bottom\\res\\anim\\slide_in_from_left.xml"
+    },
+    {
+        "merged": "E:\\workplace_studio\\NewDhDemo\\superxz_bottom\\build\\intermediates\\res\\merged\\debug\\anim\\slide_in_from_top.xml",
+        "source": "E:\\workplace_studio\\NewDhDemo\\superxz_bottom\\res\\anim\\slide_in_from_top.xml"
+    },
+    {
+        "merged": "E:\\workplace_studio\\NewDhDemo\\superxz_bottom\\build\\intermediates\\res\\merged\\debug\\anim\\slide_in_from_bottom.xml",
+        "source": "E:\\workplace_studio\\NewDhDemo\\superxz_bottom\\res\\anim\\slide_in_from_bottom.xml"
+    },
+    {
+        "merged": "E:\\workplace_studio\\NewDhDemo\\superxz_bottom\\build\\intermediates\\res\\merged\\debug\\anim\\activity_ani_exist.xml",
+        "source": "E:\\workplace_studio\\NewDhDemo\\superxz_bottom\\res\\anim\\activity_ani_exist.xml"
+    },
+    {
+        "merged": "E:\\workplace_studio\\NewDhDemo\\superxz_bottom\\build\\intermediates\\res\\merged\\debug\\anim\\activity_ani_enter.xml",
+        "source": "E:\\workplace_studio\\NewDhDemo\\superxz_bottom\\res\\anim\\activity_ani_enter.xml"
+    },
+    {
+        "merged": "E:\\workplace_studio\\NewDhDemo\\superxz_bottom\\build\\intermediates\\res\\merged\\debug\\anim\\slide_in_left.xml",
+        "source": "E:\\workplace_studio\\NewDhDemo\\superxz_bottom\\res\\anim\\slide_in_left.xml"
+    }
+]

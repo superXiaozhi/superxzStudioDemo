@@ -1,0 +1,131 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="true"
+        jar="E:\workplace_studio\NewDhDemo\superxz_bottom\build\intermediates\exploded-aar\com.android.support\support-v4\23.2.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="false"
+        revision="23.0.3"
+        sha1="3be474b1b21b31cf2fa93fe6bd641ae108d96452">
+        <dex dex="E:\workplace_studio\NewDhDemo\superxz_bottom\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-v4-23.2.1_e00ddb02fdec8d2de0b795b571945948a69d03d4\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="E:\workplace_studio\NewDhDemo\superxz_bottom\build\intermediates\exploded-aar\com.facebook.fresco\imagepipeline-base\0.11.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="false"
+        revision="23.0.3"
+        sha1="ca63c521b5745ae9a09629d7ca67ff6bc2a967fe">
+        <dex dex="E:\workplace_studio\NewDhDemo\superxz_bottom\build\intermediates\transforms\dex\debug\folders\1000\10\com.facebook.fresco-imagepipeline-base-0.11.0_f00896f514c18abba01d79fb128af785d6c456fa\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\admin\.gradle\caches\modules-2\files-2.1\com.parse.bolts\bolts-tasks\1.4.0\d85884acf6810a3bbbecb587f239005cbc846dc4\bolts-tasks-1.4.0.jar"
+        jumboMode="true"
+        optimize="false"
+        revision="23.0.3"
+        sha1="d85884acf6810a3bbbecb587f239005cbc846dc4">
+        <dex dex="E:\workplace_studio\NewDhDemo\superxz_bottom\build\intermediates\transforms\dex\debug\folders\1000\10\bolts-tasks-1.4.0_f2f3e4097c997d33921ea4a923e1e4387b8330c1\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\admin\.gradle\caches\modules-2\files-2.1\com.nineoldandroids\library\2.4.0\e9b63380f3a242dbdbf103a2355ad7e43bad17cb\library-2.4.0.jar"
+        jumboMode="true"
+        optimize="false"
+        revision="23.0.3"
+        sha1="e9b63380f3a242dbdbf103a2355ad7e43bad17cb">
+        <dex dex="E:\workplace_studio\NewDhDemo\superxz_bottom\build\intermediates\transforms\dex\debug\folders\1000\10\library-2.4.0_16c20551d1515298e4f820dbb2437cde217a49b7\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="E:\workplace_studio\NewDhDemo\superxz_bottom\build\intermediates\exploded-aar\com.facebook.fresco\fresco\0.11.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="false"
+        revision="23.0.3"
+        sha1="d31aadf33187c37a7cd63dc1b769f8c6e33f78c3">
+        <dex dex="E:\workplace_studio\NewDhDemo\superxz_bottom\build\intermediates\transforms\dex\debug\folders\1000\10\com.facebook.fresco-fresco-0.11.0_2f358f105f0ca686ebf41a0abdd1889d6d6cdc30\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\admin\.gradle\caches\modules-2\files-2.1\com.readystatesoftware.systembartint\systembartint\1.0.3\de4f7404e2f58d8f6e83cb1e85d0c2d6c2987287\systembartint-1.0.3.jar"
+        jumboMode="true"
+        optimize="false"
+        revision="23.0.3"
+        sha1="de4f7404e2f58d8f6e83cb1e85d0c2d6c2987287">
+        <dex dex="E:\workplace_studio\NewDhDemo\superxz_bottom\build\intermediates\transforms\dex\debug\folders\1000\10\systembartint-1.0.3_e5dfb906d59d2ceb7908ea796c0e02fbaa8a1fbe\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="E:\workplace_studio\NewDhDemo\superxz_bottom\build\intermediates\incremental-classes\debug\instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="false"
+        revision="23.0.3"
+        sha1="c2b927df81ffa676b3a7ababc38c291b3775cf6e">
+        <dex dex="E:\workplace_studio\NewDhDemo\superxz_bottom\build\intermediates\transforms\dex\debug\folders\1000\10\instant-run-bootstrap_882896231ae9e9cf78389acdfe0711bfae4dafbb\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\android_fxw\sdk\extras\android\m2repository\com\android\support\support-annotations\23.2.1\support-annotations-23.2.1.jar"
+        jumboMode="true"
+        optimize="false"
+        revision="23.0.3"
+        sha1="ccb693bc0774fcb637246f7360de25b4af7df318">
+        <dex dex="E:\workplace_studio\NewDhDemo\superxz_bottom\build\intermediates\transforms\dex\debug\folders\1000\10\support-annotations-23.2.1_da72154bbc99a9f16b7509e5dd1bb5657eb60e94\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="E:\workplace_studio\NewDhDemo\superxz_bottom\build\intermediates\exploded-aar\com.facebook.fresco\imagepipeline\0.11.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="false"
+        revision="23.0.3"
+        sha1="3341b66c54367e777a0647e2db96c045329bfeab">
+        <dex dex="E:\workplace_studio\NewDhDemo\superxz_bottom\build\intermediates\transforms\dex\debug\folders\1000\10\com.facebook.fresco-imagepipeline-0.11.0_46cd61d51a62cff203d6bc4702a1956dbdaa8fe8\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="E:\workplace_studio\NewDhDemo\superxz_bottom\build\intermediates\exploded-aar\com.facebook.fresco\drawee\0.11.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="false"
+        revision="23.0.3"
+        sha1="1137942adeb03984c1311b662363dd38fc238fd3">
+        <dex dex="E:\workplace_studio\NewDhDemo\superxz_bottom\build\intermediates\transforms\dex\debug\folders\1000\10\com.facebook.fresco-drawee-0.11.0_0720ffc6b72024c99cc782a409e3e0ed4a012c37\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="E:\workplace_studio\NewDhDemo\superxz_bottom\build\intermediates\exploded-aar\com.android.support\support-v4\23.2.1\jars\libs\internal_impl-23.2.1.jar"
+        jumboMode="true"
+        optimize="false"
+        revision="23.0.3"
+        sha1="607a3d0b8013b4ccbfeb0b7cb293351994e021fb">
+        <dex dex="E:\workplace_studio\NewDhDemo\superxz_bottom\build\intermediates\transforms\dex\debug\folders\1000\10\internal_impl-23.2.1_2ade950ce02ce86219fae90fa65822cb068685bc\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="E:\workplace_studio\NewDhDemo\superxz_bottom\build\intermediates\incremental-runtime-classes\debug\instant-run.jar"
+        jumboMode="true"
+        optimize="false"
+        revision="23.0.3"
+        sha1="accca6fa6fe96ea567c29204fc796c4976b03a5e">
+        <dex dex="E:\workplace_studio\NewDhDemo\superxz_bottom\build\intermediates\transforms\dex\debug\folders\1000\10\instant-run_48c1e0f85be60312990b270c56a0945d04713ca3\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="E:\workplace_studio\NewDhDemo\superxz_bottom\libs\pinyin4j-2.5.0.jar"
+        jumboMode="true"
+        optimize="false"
+        revision="23.0.3"
+        sha1="ae353005f973da1cd8545b54354504c2503f6865">
+        <dex dex="E:\workplace_studio\NewDhDemo\superxz_bottom\build\intermediates\transforms\dex\debug\folders\1000\2\pinyin4j-2.5.0_c48e0a5b901d68a4746a1df5baaa674064a55987\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="E:\workplace_studio\NewDhDemo\superxz_bottom\build\intermediates\exploded-aar\com.facebook.fresco\fbcore\0.11.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="false"
+        revision="23.0.3"
+        sha1="98786c1770b531b9194fb6448b2a2692c64074b6">
+        <dex dex="E:\workplace_studio\NewDhDemo\superxz_bottom\build\intermediates\transforms\dex\debug\folders\1000\10\com.facebook.fresco-fbcore-0.11.0_eb953c592a4e66869bea9e541a55fb0eac095ff8\classes.dex" />
+    </item>
+
+</items>

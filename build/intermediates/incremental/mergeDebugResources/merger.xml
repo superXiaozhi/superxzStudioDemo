@@ -1,0 +1,308 @@
+<?xml version="1.0" encoding="utf-8"?>
+<merger version="3" xmlns:ns1="urn:oasis:names:tc:xliff:document:1.2"><dataSet config="0.11.0$Generated" generated="true"><source path="E:\workplace_studio\NewDhDemo\superxz_bottom\build\intermediates\exploded-aar\com.facebook.fresco\fbcore\0.11.0\res"/></dataSet><dataSet config="23.2.1$Generated" generated="true"><source path="E:\workplace_studio\NewDhDemo\superxz_bottom\build\intermediates\exploded-aar\com.android.support\support-v4\23.2.1\res"/></dataSet><dataSet config="0.11.0$Generated" generated="true"><source path="E:\workplace_studio\NewDhDemo\superxz_bottom\build\intermediates\exploded-aar\com.facebook.fresco\imagepipeline-base\0.11.0\res"/></dataSet><dataSet config="0.11.0$Generated" generated="true"><source path="E:\workplace_studio\NewDhDemo\superxz_bottom\build\intermediates\exploded-aar\com.facebook.fresco\imagepipeline\0.11.0\res"/></dataSet><dataSet config="0.11.0$Generated" generated="true"><source path="E:\workplace_studio\NewDhDemo\superxz_bottom\build\intermediates\exploded-aar\com.facebook.fresco\drawee\0.11.0\res"/></dataSet><dataSet config="0.11.0$Generated" generated="true"><source path="E:\workplace_studio\NewDhDemo\superxz_bottom\build\intermediates\exploded-aar\com.facebook.fresco\fresco\0.11.0\res"/></dataSet><dataSet config="main$Generated" generated="true"><source path="E:\workplace_studio\NewDhDemo\superxz_bottom\res"/><source path="E:\workplace_studio\NewDhDemo\superxz_bottom\build\generated\res\rs\debug"/><source path="E:\workplace_studio\NewDhDemo\superxz_bottom\build\generated\res\resValues\debug"/></dataSet><dataSet config="debug$Generated" generated="true"><source path="E:\workplace_studio\NewDhDemo\superxz_bottom\build-types\debug\res"/></dataSet><dataSet config="0.11.0" from-dependency="true" generated-set="0.11.0$Generated"><source path="E:\workplace_studio\NewDhDemo\superxz_bottom\build\intermediates\exploded-aar\com.facebook.fresco\fbcore\0.11.0\res"/></dataSet><dataSet config="23.2.1" from-dependency="true" generated-set="23.2.1$Generated"><source path="E:\workplace_studio\NewDhDemo\superxz_bottom\build\intermediates\exploded-aar\com.android.support\support-v4\23.2.1\res"/></dataSet><dataSet config="0.11.0" from-dependency="true" generated-set="0.11.0$Generated"><source path="E:\workplace_studio\NewDhDemo\superxz_bottom\build\intermediates\exploded-aar\com.facebook.fresco\imagepipeline-base\0.11.0\res"/></dataSet><dataSet config="0.11.0" from-dependency="true" generated-set="0.11.0$Generated"><source path="E:\workplace_studio\NewDhDemo\superxz_bottom\build\intermediates\exploded-aar\com.facebook.fresco\imagepipeline\0.11.0\res"/></dataSet><dataSet config="0.11.0" from-dependency="true" generated-set="0.11.0$Generated"><source path="E:\workplace_studio\NewDhDemo\superxz_bottom\build\intermediates\exploded-aar\com.facebook.fresco\drawee\0.11.0\res"><file path="E:\workplace_studio\NewDhDemo\superxz_bottom\build\intermediates\exploded-aar\com.facebook.fresco\drawee\0.11.0\res\values\values.xml" qualifiers=""><declare-styleable name="SimpleDraweeView"><attr format="string" name="actualImageUri"/></declare-styleable><declare-styleable name="GenericDraweeHierarchy"><attr format="integer" name="fadeDuration"/><attr format="float" name="viewAspectRatio"/><attr format="reference" name="placeholderImage"/><attr name="placeholderImageScaleType"><enum name="none" value="-1"/><enum name="fitXY" value="0"/><enum name="fitStart" value="1"/><enum name="fitCenter" value="2"/><enum name="fitEnd" value="3"/><enum name="center" value="4"/><enum name="centerInside" value="5"/><enum name="centerCrop" value="6"/><enum name="focusCrop" value="7"/></attr><attr format="reference" name="retryImage"/><attr name="retryImageScaleType"><enum name="none" value="-1"/><enum name="fitXY" value="0"/><enum name="fitStart" value="1"/><enum name="fitCenter" value="2"/><enum name="fitEnd" value="3"/><enum name="center" value="4"/><enum name="centerInside" value="5"/><enum name="centerCrop" value="6"/><enum name="focusCrop" value="7"/></attr><attr format="reference" name="failureImage"/><attr name="failureImageScaleType"><enum name="none" value="-1"/><enum name="fitXY" value="0"/><enum name="fitStart" value="1"/><enum name="fitCenter" value="2"/><enum name="fitEnd" value="3"/><enum name="center" value="4"/><enum name="centerInside" value="5"/><enum name="centerCrop" value="6"/><enum name="focusCrop" value="7"/></attr><attr format="reference" name="progressBarImage"/><attr name="progressBarImageScaleType"><enum name="none" value="-1"/><enum name="fitXY" value="0"/><enum name="fitStart" value="1"/><enum name="fitCenter" value="2"/><enum name="fitEnd" value="3"/><enum name="center" value="4"/><enum name="centerInside" value="5"/><enum name="centerCrop" value="6"/><enum name="focusCrop" value="7"/></attr><attr format="integer" name="progressBarAutoRotateInterval"/><attr name="actualImageScaleType"><enum name="none" value="-1"/><enum name="fitXY" value="0"/><enum name="fitStart" value="1"/><enum name="fitCenter" value="2"/><enum name="fitEnd" value="3"/><enum name="center" value="4"/><enum name="centerInside" value="5"/><enum name="centerCrop" value="6"/><enum name="focusCrop" value="7"/></attr><attr format="reference" name="backgroundImage"/><attr format="reference" name="overlayImage"/><attr format="reference" name="pressedStateOverlayImage"/><attr format="boolean" name="roundAsCircle"/><attr format="dimension" name="roundedCornerRadius"/><attr format="boolean" name="roundTopLeft"/><attr format="boolean" name="roundTopRight"/><attr format="boolean" name="roundBottomRight"/><attr format="boolean" name="roundBottomLeft"/><attr format="color" name="roundWithOverlayColor"/><attr format="dimension" name="roundingBorderWidth"/><attr format="color" name="roundingBorderColor"/><attr format="dimension" name="roundingBorderPadding"/></declare-styleable></file></source></dataSet><dataSet config="0.11.0" from-dependency="true" generated-set="0.11.0$Generated"><source path="E:\workplace_studio\NewDhDemo\superxz_bottom\build\intermediates\exploded-aar\com.facebook.fresco\fresco\0.11.0\res"/></dataSet><dataSet config="main" generated-set="main$Generated"><source path="E:\workplace_studio\NewDhDemo\superxz_bottom\res"><file name="activity_ani_enter" path="E:\workplace_studio\NewDhDemo\superxz_bottom\res\anim\activity_ani_enter.xml" qualifiers="" type="anim"/><file name="activity_ani_exist" path="E:\workplace_studio\NewDhDemo\superxz_bottom\res\anim\activity_ani_exist.xml" qualifiers="" type="anim"/><file name="slide_from_right_slow" path="E:\workplace_studio\NewDhDemo\superxz_bottom\res\anim\slide_from_right_slow.xml" qualifiers="" type="anim"/><file name="slide_in_from_bottom" path="E:\workplace_studio\NewDhDemo\superxz_bottom\res\anim\slide_in_from_bottom.xml" qualifiers="" type="anim"/><file name="slide_in_from_left" path="E:\workplace_studio\NewDhDemo\superxz_bottom\res\anim\slide_in_from_left.xml" qualifiers="" type="anim"/><file name="slide_in_from_right" path="E:\workplace_studio\NewDhDemo\superxz_bottom\res\anim\slide_in_from_right.xml" qualifiers="" type="anim"/><file name="slide_in_from_top" path="E:\workplace_studio\NewDhDemo\superxz_bottom\res\anim\slide_in_from_top.xml" qualifiers="" type="anim"/><file name="slide_in_left" path="E:\workplace_studio\NewDhDemo\superxz_bottom\res\anim\slide_in_left.xml" qualifiers="" type="anim"/><file name="slide_out_right" path="E:\workplace_studio\NewDhDemo\superxz_bottom\res\anim\slide_out_right.xml" qualifiers="" type="anim"/><file name="slide_out_to_bottom" path="E:\workplace_studio\NewDhDemo\superxz_bottom\res\anim\slide_out_to_bottom.xml" qualifiers="" type="anim"/><file name="slide_out_to_left" path="E:\workplace_studio\NewDhDemo\superxz_bottom\res\anim\slide_out_to_left.xml" qualifiers="" type="anim"/><file name="slide_out_to_right" path="E:\workplace_studio\NewDhDemo\superxz_bottom\res\anim\slide_out_to_right.xml" qualifiers="" type="anim"/><file name="slide_out_to_top" path="E:\workplace_studio\NewDhDemo\superxz_bottom\res\anim\slide_out_to_top.xml" qualifiers="" type="anim"/><file name="slide_to_left_slow" path="E:\workplace_studio\NewDhDemo\superxz_bottom\res\anim\slide_to_left_slow.xml" qualifiers="" type="anim"/><file name="common_selector_top_back" path="E:\workplace_studio\NewDhDemo\superxz_bottom\res\drawable\common_selector_top_back.xml" qualifiers="" type="drawable"/><file name="indicator_bg_bottom" path="E:\workplace_studio\NewDhDemo\superxz_bottom\res\drawable\indicator_bg_bottom.xml" qualifiers="" type="drawable"/><file name="indicator_bg_top" path="E:\workplace_studio\NewDhDemo\superxz_bottom\res\drawable\indicator_bg_top.xml" qualifiers="" type="drawable"/><file name="np_numberpicker_down_btn_holo_dark" path="E:\workplace_studio\NewDhDemo\superxz_bottom\res\drawable\np_numberpicker_down_btn_holo_dark.xml" qualifiers="" type="drawable"/><file name="np_numberpicker_down_btn_holo_light" path="E:\workplace_studio\NewDhDemo\superxz_bottom\res\drawable\np_numberpicker_down_btn_holo_light.xml" qualifiers="" type="drawable"/><file name="np_numberpicker_up_btn_holo_dark" path="E:\workplace_studio\NewDhDemo\superxz_bottom\res\drawable\np_numberpicker_up_btn_holo_dark.xml" qualifiers="" type="drawable"/><file name="np_numberpicker_up_btn_holo_light" path="E:\workplace_studio\NewDhDemo\superxz_bottom\res\drawable\np_numberpicker_up_btn_holo_light.xml" qualifiers="" type="drawable"/><file name="common_bg_top_back" path="E:\workplace_studio\NewDhDemo\superxz_bottom\res\drawable-hdpi\common_bg_top_back.png" qualifiers="hdpi-v4" type="drawable"/><file name="default_photo" path="E:\workplace_studio\NewDhDemo\superxz_bottom\res\drawable-hdpi\default_photo.png" qualifiers="hdpi-v4" type="drawable"/><file name="default_ptr_flip" path="E:\workplace_studio\NewDhDemo\superxz_bottom\res\drawable-hdpi\default_ptr_flip.png" qualifiers="hdpi-v4" type="drawable"/><file name="default_ptr_rotate" path="E:\workplace_studio\NewDhDemo\superxz_bottom\res\drawable-hdpi\default_ptr_rotate.png" qualifiers="hdpi-v4" type="drawable"/><file name="del_icon_normal" path="E:\workplace_studio\NewDhDemo\superxz_bottom\res\drawable-hdpi\del_icon_normal.png" qualifiers="hdpi-v4" type="drawable"/><file name="dialog_set_time_divider" path="E:\workplace_studio\NewDhDemo\superxz_bottom\res\drawable-hdpi\dialog_set_time_divider.9.png" qualifiers="hdpi-v4" type="drawable"/><file name="ic_launcher" path="E:\workplace_studio\NewDhDemo\superxz_bottom\res\drawable-hdpi\ic_launcher.png" qualifiers="hdpi-v4" type="drawable"/><file name="indicator_arrow" path="E:\workplace_studio\NewDhDemo\superxz_bottom\res\drawable-hdpi\indicator_arrow.png" qualifiers="hdpi-v4" type="drawable"/><file name="login2" path="E:\workplace_studio\NewDhDemo\superxz_bottom\res\drawable-hdpi\login2.png" qualifiers="hdpi-v4" type="drawable"/><file name="login_btn" path="E:\workplace_studio\NewDhDemo\superxz_bottom\res\drawable-hdpi\login_btn.png" qualifiers="hdpi-v4" type="drawable"/><file name="login_item" path="E:\workplace_studio\NewDhDemo\superxz_bottom\res\drawable-hdpi\login_item.png" qualifiers="hdpi-v4" type="drawable"/><file name="login_lin" path="E:\workplace_studio\NewDhDemo\superxz_bottom\res\drawable-hdpi\login_lin.png" qualifiers="hdpi-v4" type="drawable"/><file name="login_pass" path="E:\workplace_studio\NewDhDemo\superxz_bottom\res\drawable-hdpi\login_pass.png" qualifiers="hdpi-v4" type="drawable"/><file name="login_user" path="E:\workplace_studio\NewDhDemo\superxz_bottom\res\drawable-hdpi\login_user.png" qualifiers="hdpi-v4" type="drawable"/><file name="np_numberpicker_down_disabled_focused_holo_dark" path="E:\workplace_studio\NewDhDemo\superxz_bottom\res\drawable-hdpi\np_numberpicker_down_disabled_focused_holo_dark.png" qualifiers="hdpi-v4" type="drawable"/><file name="np_numberpicker_down_disabled_focused_holo_light" path="E:\workplace_studio\NewDhDemo\superxz_bottom\res\drawable-hdpi\np_numberpicker_down_disabled_focused_holo_light.png" qualifiers="hdpi-v4" type="drawable"/><file name="np_numberpicker_down_disabled_holo_dark" path="E:\workplace_studio\NewDhDemo\superxz_bottom\res\drawable-hdpi\np_numberpicker_down_disabled_holo_dark.png" qualifiers="hdpi-v4" type="drawable"/><file name="np_numberpicker_down_disabled_holo_light" path="E:\workplace_studio\NewDhDemo\superxz_bottom\res\drawable-hdpi\np_numberpicker_down_disabled_holo_light.png" qualifiers="hdpi-v4" type="drawable"/><file name="np_numberpicker_down_focused_holo_dark" path="E:\workplace_studio\NewDhDemo\superxz_bottom\res\drawable-hdpi\np_numberpicker_down_focused_holo_dark.png" qualifiers="hdpi-v4" type="drawable"/><file name="np_numberpicker_down_focused_holo_light" path="E:\workplace_studio\NewDhDemo\superxz_bottom\res\drawable-hdpi\np_numberpicker_down_focused_holo_light.png" qualifiers="hdpi-v4" type="drawable"/><file name="np_numberpicker_down_longpressed_holo_dark" path="E:\workplace_studio\NewDhDemo\superxz_bottom\res\drawable-hdpi\np_numberpicker_down_longpressed_holo_dark.png" qualifiers="hdpi-v4" type="drawable"/><file name="np_numberpicker_down_longpressed_holo_light" path="E:\workplace_studio\NewDhDemo\superxz_bottom\res\drawable-hdpi\np_numberpicker_down_longpressed_holo_light.png" qualifiers="hdpi-v4" type="drawable"/><file name="np_numberpicker_down_normal_holo_dark" path="E:\workplace_studio\NewDhDemo\superxz_bottom\res\drawable-hdpi\np_numberpicker_down_normal_holo_dark.png" qualifiers="hdpi-v4" type="drawable"/><file name="np_numberpicker_down_normal_holo_light" path="E:\workplace_studio\NewDhDemo\superxz_bottom\res\drawable-hdpi\np_numberpicker_down_normal_holo_light.png" qualifiers="hdpi-v4" type="drawable"/><file name="np_numberpicker_down_pressed_holo_dark" path="E:\workplace_studio\NewDhDemo\superxz_bottom\res\drawable-hdpi\np_numberpicker_down_pressed_holo_dark.png" qualifiers="hdpi-v4" type="drawable"/><file name="np_numberpicker_down_pressed_holo_light" path="E:\workplace_studio\NewDhDemo\superxz_bottom\res\drawable-hdpi\np_numberpicker_down_pressed_holo_light.png" qualifiers="hdpi-v4" type="drawable"/><file name="np_numberpicker_up_disabled_focused_holo_dark" path="E:\workplace_studio\NewDhDemo\superxz_bottom\res\drawable-hdpi\np_numberpicker_up_disabled_focused_holo_dark.png" qualifiers="hdpi-v4" type="drawable"/><file name="np_numberpicker_up_disabled_focused_holo_light" path="E:\workplace_studio\NewDhDemo\superxz_bottom\res\drawable-hdpi\np_numberpicker_up_disabled_focused_holo_light.png" qualifiers="hdpi-v4" type="drawable"/><file name="np_numberpicker_up_disabled_holo_dark" path="E:\workplace_studio\NewDhDemo\superxz_bottom\res\drawable-hdpi\np_numberpicker_up_disabled_holo_dark.png" qualifiers="hdpi-v4" type="drawable"/><file name="np_numberpicker_up_disabled_holo_light" path="E:\workplace_studio\NewDhDemo\superxz_bottom\res\drawable-hdpi\np_numberpicker_up_disabled_holo_light.png" qualifiers="hdpi-v4" type="drawable"/><file name="np_numberpicker_up_focused_holo_dark" path="E:\workplace_studio\NewDhDemo\superxz_bottom\res\drawable-hdpi\np_numberpicker_up_focused_holo_dark.png" qualifiers="hdpi-v4" type="drawable"/><file name="np_numberpicker_up_focused_holo_light" path="E:\workplace_studio\NewDhDemo\superxz_bottom\res\drawable-hdpi\np_numberpicker_up_focused_holo_light.png" qualifiers="hdpi-v4" type="drawable"/><file name="np_numberpicker_up_longpressed_holo_dark" path="E:\workplace_studio\NewDhDemo\superxz_bottom\res\drawable-hdpi\np_numberpicker_up_longpressed_holo_dark.png" qualifiers="hdpi-v4" type="drawable"/><file name="np_numberpicker_up_longpressed_holo_light" path="E:\workplace_studio\NewDhDemo\superxz_bottom\res\drawable-hdpi\np_numberpicker_up_longpressed_holo_light.png" qualifiers="hdpi-v4" type="drawable"/><file name="np_numberpicker_up_normal_holo_dark" path="E:\workplace_studio\NewDhDemo\superxz_bottom\res\drawable-hdpi\np_numberpicker_up_normal_holo_dark.png" qualifiers="hdpi-v4" type="drawable"/><file name="np_numberpicker_up_normal_holo_light" path="E:\workplace_studio\NewDhDemo\superxz_bottom\res\drawable-hdpi\np_numberpicker_up_normal_holo_light.png" qualifiers="hdpi-v4" type="drawable"/><file name="np_numberpicker_up_pressed_holo_dark" path="E:\workplace_studio\NewDhDemo\superxz_bottom\res\drawable-hdpi\np_numberpicker_up_pressed_holo_dark.png" qualifiers="hdpi-v4" type="drawable"/><file name="np_numberpicker_up_pressed_holo_light" path="E:\workplace_studio\NewDhDemo\superxz_bottom\res\drawable-hdpi\np_numberpicker_up_pressed_holo_light.png" qualifiers="hdpi-v4" type="drawable"/><file name="shadow_left" path="E:\workplace_studio\NewDhDemo\superxz_bottom\res\drawable-hdpi\shadow_left.png" qualifiers="hdpi-v4" type="drawable"/><file name="shape_pop" path="E:\workplace_studio\NewDhDemo\superxz_bottom\res\drawable-hdpi\shape_pop.xml" qualifiers="hdpi-v4" type="drawable"/><file name="xlistview_fresh_img" path="E:\workplace_studio\NewDhDemo\superxz_bottom\res\drawable-hdpi\xlistview_fresh_img.png" qualifiers="hdpi-v4" type="drawable"/><file name="xlistview_loading" path="E:\workplace_studio\NewDhDemo\superxz_bottom\res\drawable-hdpi\xlistview_loading.png" qualifiers="hdpi-v4" type="drawable"/><file name="ic_launcher" path="E:\workplace_studio\NewDhDemo\superxz_bottom\res\drawable-mdpi\ic_launcher.png" qualifiers="mdpi-v4" type="drawable"/><file name="ic_launcher" path="E:\workplace_studio\NewDhDemo\superxz_bottom\res\drawable-xhdpi\ic_launcher.png" qualifiers="xhdpi-v4" type="drawable"/><file name="ic_action_about" path="E:\workplace_studio\NewDhDemo\superxz_bottom\res\drawable-xxhdpi\ic_action_about.png" qualifiers="xxhdpi-v4" type="drawable"/><file name="ic_action_discard" path="E:\workplace_studio\NewDhDemo\superxz_bottom\res\drawable-xxhdpi\ic_action_discard.png" qualifiers="xxhdpi-v4" type="drawable"/><file name="ic_action_favorite" path="E:\workplace_studio\NewDhDemo\superxz_bottom\res\drawable-xxhdpi\ic_action_favorite.png" qualifiers="xxhdpi-v4" type="drawable"/><file name="ic_action_good" path="E:\workplace_studio\NewDhDemo\superxz_bottom\res\drawable-xxhdpi\ic_action_good.png" qualifiers="xxhdpi-v4" type="drawable"/><file name="ic_action_important" path="E:\workplace_studio\NewDhDemo\superxz_bottom\res\drawable-xxhdpi\ic_action_important.png" qualifiers="xxhdpi-v4" type="drawable"/><file name="ic_action_share" path="E:\workplace_studio\NewDhDemo\superxz_bottom\res\drawable-xxhdpi\ic_action_share.png" qualifiers="xxhdpi-v4" type="drawable"/><file name="ic_launcher" path="E:\workplace_studio\NewDhDemo\superxz_bottom\res\drawable-xxhdpi\ic_launcher.png" qualifiers="xxhdpi-v4" type="drawable"/><file name="activity_about" path="E:\workplace_studio\NewDhDemo\superxz_bottom\res\layout\activity_about.xml" qualifiers="" type="layout"/><file name="activity_date_picker" path="E:\workplace_studio\NewDhDemo\superxz_bottom\res\layout\activity_date_picker.xml" qualifiers="" type="layout"/><file name="activity_event" path="E:\workplace_studio\NewDhDemo\superxz_bottom\res\layout\activity_event.xml" qualifiers="" type="layout"/><file name="activity_forget" path="E:\workplace_studio\NewDhDemo\superxz_bottom\res\layout\activity_forget.xml" qualifiers="" type="layout"/><file name="activity_list" path="E:\workplace_studio\NewDhDemo\superxz_bottom\res\layout\activity_list.xml" qualifiers="" type="layout"/><file name="activity_login" path="E:\workplace_studio\NewDhDemo\superxz_bottom\res\layout\activity_login.xml" qualifiers="" type="layout"/><file name="activity_main" path="E:\workplace_studio\NewDhDemo\superxz_bottom\res\layout\activity_main.xml" qualifiers="" type="layout"/><file name="activity_photo_view" path="E:\workplace_studio\NewDhDemo\superxz_bottom\res\layout\activity_photo_view.xml" qualifiers="" type="layout"/><file name="activity_pub_web" path="E:\workplace_studio\NewDhDemo\superxz_bottom\res\layout\activity_pub_web.xml" qualifiers="" type="layout"/><file name="activity_register" path="E:\workplace_studio\NewDhDemo\superxz_bottom\res\layout\activity_register.xml" qualifiers="" type="layout"/><file name="base" path="E:\workplace_studio\NewDhDemo\superxz_bottom\res\layout\base.xml" qualifiers="" type="layout"/><file name="bitmap_fragment" path="E:\workplace_studio\NewDhDemo\superxz_bottom\res\layout\bitmap_fragment.xml" qualifiers="" type="layout"/><file name="common_dialog_tip" path="E:\workplace_studio\NewDhDemo\superxz_bottom\res\layout\common_dialog_tip.xml" qualifiers="" type="layout"/><file name="date_picker" path="E:\workplace_studio\NewDhDemo\superxz_bottom\res\layout\date_picker.xml" qualifiers="" type="layout"/><file name="db_fragment" path="E:\workplace_studio\NewDhDemo\superxz_bottom\res\layout\db_fragment.xml" qualifiers="" type="layout"/><file name="empty" path="E:\workplace_studio\NewDhDemo\superxz_bottom\res\layout\empty.xml" qualifiers="" type="layout"/><file name="event_fragment" path="E:\workplace_studio\NewDhDemo\superxz_bottom\res\layout\event_fragment.xml" qualifiers="" type="layout"/><file name="home_item_notification" path="E:\workplace_studio\NewDhDemo\superxz_bottom\res\layout\home_item_notification.xml" qualifiers="" type="layout"/><file name="home_menu_item" path="E:\workplace_studio\NewDhDemo\superxz_bottom\res\layout\home_menu_item.xml" qualifiers="" type="layout"/><file name="http_fragment" path="E:\workplace_studio\NewDhDemo\superxz_bottom\res\layout\http_fragment.xml" qualifiers="" type="layout"/><file name="item_list_app" path="E:\workplace_studio\NewDhDemo\superxz_bottom\res\layout\item_list_app.xml" qualifiers="" type="layout"/><file name="listview_footer" path="E:\workplace_studio\NewDhDemo\superxz_bottom\res\layout\listview_footer.xml" qualifiers="" type="layout"/><file name="my_common_top" path="E:\workplace_studio\NewDhDemo\superxz_bottom\res\layout\my_common_top.xml" qualifiers="" type="layout"/><file name="number_picker" path="E:\workplace_studio\NewDhDemo\superxz_bottom\res\layout\number_picker.xml" qualifiers="" type="layout"/><file name="pull_to_refresh_header_horizontal" path="E:\workplace_studio\NewDhDemo\superxz_bottom\res\layout\pull_to_refresh_header_horizontal.xml" qualifiers="" type="layout"/><file name="pull_to_refresh_header_vertical" path="E:\workplace_studio\NewDhDemo\superxz_bottom\res\layout\pull_to_refresh_header_vertical.xml" qualifiers="" type="layout"/><file name="tab_indicator_holo2" path="E:\workplace_studio\NewDhDemo\superxz_bottom\res\layout\tab_indicator_holo2.xml" qualifiers="" type="layout"/><file name="tab_layout2" path="E:\workplace_studio\NewDhDemo\superxz_bottom\res\layout\tab_layout2.xml" qualifiers="" type="layout"/><file name="time_picker" path="E:\workplace_studio\NewDhDemo\superxz_bottom\res\layout\time_picker.xml" qualifiers="" type="layout"/><file name="view_pager_fragment_demo1" path="E:\workplace_studio\NewDhDemo\superxz_bottom\res\layout\view_pager_fragment_demo1.xml" qualifiers="" type="layout"/><file name="main" path="E:\workplace_studio\NewDhDemo\superxz_bottom\res\menu\main.xml" qualifiers="" type="menu"/><file path="E:\workplace_studio\NewDhDemo\superxz_bottom\res\values\attrs.xml" qualifiers=""><declare-styleable name="ViewFlow">
+        <attr format="integer" name="sidebuffer"/>
+    </declare-styleable><declare-styleable name="FormIcon">
+        <attr format="reference" name="img"/>
+        <attr format="string" name="text"/>
+    </declare-styleable><declare-styleable name="CustomButton">
+
+        
+        <attr format="color" name="clickeffect"/>
+        
+        <attr format="color" name="textclickeffect"/>
+        
+        <attr format="color" name="customBackground"/>
+        
+        <attr format="color" name="customTextColor"/>
+        
+        <attr format="boolean" name="fillet"/>
+        
+        <attr format="float" name="customRadius"/>
+    </declare-styleable><declare-styleable name="CircleFlowIndicator">
+        <attr format="color" name="activeColor"/>
+        <attr format="color" name="inactiveColor"/>
+        <attr format="dimension" name="radius"/>
+        <attr format="boolean" name="centered"/>
+        <attr format="integer" name="fadeOut"/>
+        <attr name="inactiveType">
+            <flag name="stroke" value="0"/>
+            <flag name="fill" value="1"/>
+        </attr>
+        <attr name="activeType">
+            <flag name="stroke" value="0"/>
+            <flag name="fill" value="1"/>
+        </attr>
+    </declare-styleable><declare-styleable name="HorizontalListView">
+        <attr format="dimension" name="dividerWidth"/>
+        <attr name="android:divider"/>
+        <attr name="android:requiresFadingEdge"/>
+        <attr name="android:fadingEdgeLength"/>
+    </declare-styleable><declare-styleable name="swipelistviewstyle">
+        <attr format="dimension" name="right_width"/>
+    </declare-styleable><declare-styleable name="RoundProgressBar">
+        <attr format="color" name="roundColor"/>
+        <attr format="color" name="roundProgressColor"/>
+        <attr format="dimension" name="roundWidth"/>
+        <attr format="color" name="scoretextColor"/>
+        <attr format="dimension" name="scoretextSize"/>
+        <attr format="integer" name="max"/>
+        <attr format="boolean" name="textIsDisplayable"/>
+        <attr format="boolean" name="isHaveGap"/>
+        <attr format="integer" name="gapStart"/>
+        <attr format="integer" name="gapAngle"/>
+        <attr name="style">
+            <enum name="STROKE" value="0"/>
+            <enum name="FILL" value="1"/>
+        </attr>
+    </declare-styleable><declare-styleable name="PullToRefresh">
+        <attr format="reference|boolean" name="ptrListViewExtrasEnabled"/>
+        
+        <attr format="reference|color" name="ptrRefreshableViewBackground"/>
+
+        
+        <attr format="reference|color" name="ptrHeaderBackground"/>
+
+        
+        <attr format="reference|color" name="ptrHeaderTextColor"/>
+
+        
+        <attr format="reference|color" name="ptrHeaderSubTextColor"/>
+
+        
+        <attr name="ptrMode">
+            <flag name="disabled" value="0x0"/>
+            <flag name="pullFromStart" value="0x1"/>
+            <flag name="pullFromEnd" value="0x2"/>
+            <flag name="both" value="0x3"/>
+            <flag name="manualOnly" value="0x4"/>
+
+            
+            <flag name="pullDownFromTop" value="0x1"/>
+            <flag name="pullUpFromBottom" value="0x2"/>
+        </attr>
+
+        
+        <attr format="reference|boolean" name="ptrShowIndicator"/>
+
+        
+        <attr format="reference" name="ptrDrawable"/>
+
+        
+        <attr format="reference" name="ptrDrawableStart"/>
+
+        
+        <attr format="reference" name="ptrDrawableEnd"/>
+
+        
+        <attr format="reference|boolean" name="ptrOverScroll"/>
+
+        
+        <attr format="reference" name="ptrHeaderTextAppearance"/>
+
+        
+        <attr format="reference" name="ptrSubHeaderTextAppearance"/>
+
+        
+        <attr name="ptrAnimationStyle">
+            <flag name="rotate" value="0x0"/>
+            <flag name="flip" value="0x1"/>
+        </attr>
+
+        
+        <attr format="reference|boolean" name="ptrScrollingWhileRefreshingEnabled"/>
+
+        
+
+
+        
+        <attr format="reference|boolean" name="ptrRotateDrawableWhilePulling"/>
+
+        
+        <attr format="reference|color" name="ptrAdapterViewBackground"/>
+        <attr format="reference" name="ptrDrawableTop"/>
+        <attr format="reference" name="ptrDrawableBottom"/>
+    </declare-styleable><declare-styleable name="TitleFlowIndicator">
+        <attr format="dimension" name="titlePadding"/>
+        
+        <attr format="dimension" name="clipPadding"/>
+        <attr format="color" name="selectedColor"/>
+        <attr format="boolean" name="selectedBold"/>
+        <attr format="dimension" name="selectedSize"/>
+        <attr format="color" name="textColor"/>
+        <attr format="dimension" name="textSize"/>
+        <attr format="dimension" name="footerLineHeight"/>
+        <attr format="color" name="footerColor"/>
+        <attr format="dimension" name="footerTriangleHeight"/>
+        <attr format="string" name="customTypeface"/>
+    </declare-styleable><declare-styleable name="CircleImageView">
+        <attr format="dimension" name="border_width"/>
+        <attr format="color" name="border_color"/>
+    </declare-styleable><declare-styleable name="roundedimageview">
+        <attr format="dimension" name="border_thickness"/>
+        <attr format="color" name="border_inside_color"/>
+        <attr format="color" name="border_outside_color"/>
+    </declare-styleable></file><file path="E:\workplace_studio\NewDhDemo\superxz_bottom\res\values\colors.xml" qualifiers=""><color name="my_question_car_model">#38b059</color><color name="refuel_indicator_inactive">#E8E7E4</color><color name="gray_back">#d6d6d6</color><color name="vouchers_item_money">#6b7299</color><color name="exchange_green">#00ccad</color><color name="wb_choose_line">#d3d3d3</color><color name="hxz_carinfo_yellow">#f3d2c5</color><color name="order_sevice_name">#9b9b9b</color><color name="refuel_quality_text">#A5BCCC</color><color name="share_success_yellow_text">#ffe400</color><color name="yhq_green">#53A000</color><color name="in_out_success_text">#42D130</color><color name="hxz_car_guard_line">#d9d9d9</color><color name="wb_item_line">#e5e5e5</color><color name="pay_color">#0095EA</color><color name="hxz_carinfo_black">#4c4c4c</color><color name="order_text_orange_two">#fc6e08</color><color name="gray_shallow3">#d5d5d5</color><color name="gray_shallow2">#d3d3d3</color><color name="gray_shallow1">#777777</color><color name="color_fafafa">#fafafa</color><color name="green">#7CCD7C</color><color name="tab_text_color">#666666</color><color name="hxz_green_cutline">#57bd7d</color><color name="hxz_carcheck_info">#696969</color><color name="gray_shallow6">#222222</color><color name="gray_shallow5">#f2f2f2</color><color name="gray_shallow4">#696969</color><color name="order_black_two">#626262</color><color name="gray_line">#d3d3d3</color><color name="pwd_setting_color">#FFCEC1</color><color name="wb_top_line">#b2b2b2</color><color name="order_blue_two">#5bb5db</color><color name="exchange_orange">#fd7c0a</color><color name="hxz_red_cutline">#f15a34</color><color name="white">#FFFFFF</color><color name="gray_text">#666666</color><color name="tv_bind_zsy">#16b8ed</color><color name="hxz_common_headblack">#3f3f3f</color><color name="main_red">#f13f2f</color><color name="black">#000000</color><color name="color_e91e63">#e91e63</color><color name="hxz_gray_char">#dbdbdb</color><color name="discover_item_444444">#444444</color><color name="text_dark_red2">#e37050</color><color name="hxz_carinfo_datacutline">#f8f8f8</color><color name="city_query_background">#CDC9C9</color><color name="order_text_black">#3d4245</color><color name="subduction_color">#00C13A</color><color name="refuel_indicator_active">#00ABFF</color><color name="wb_detail_num">#333333</color><color name="gray_bg">#eeeeee</color><color name="holly_text">#008fe9</color><color name="order_total_price">#555555</color><color name="hxz_drivereport_orange">#ff7d35</color><color name="hxz_check_error_red">#f13f2f</color><color name="order_background_orange">#fc6e08</color><color name="gray_wheel_text">#adadad</color><color name="order_text_blue">#038cd6</color><color name="map_button_gray2">#90000000</color><color name="hxz_textcolor_darkgray">#4c4c4c</color><color name="refuel_more">#2E95EC</color><color name="text_blank_font1">#cfc2c0</color><color name="transact_color">#FF4700</color><color name="hxz_blue_cutline">#23b2d6</color><color name="hxz_white_char">#ffffff</color><color name="narrow_brown_bg">#FFFBDC</color><color name="blue_text">#0079ff</color><color name="wb_item_distance">#b7b7b7</color><color name="vouchers_item_money_used">#cfcfcf</color><color name="gray_light_text">#999999</color><color name="gray_holly_text">#808080</color><color name="wb_item_name">#484848</color><color name="yellowish_brown_text">#a0836b</color><color name="wb_search_clear_text">#959595</color><color name="brown_text">#EBAE62</color><color name="exchange_color">#FFC400</color><color name="wb_detail_name">#4c4c4c</color><color name="wb_bg">#f8f8f8</color><color name="hxz_common_backgroud">#f8f8f8</color><color name="hxz_textcolor_gray">#6b6b6b</color><color name="transparent_black">#30000000</color><color name="order_text_orange">#fc6600</color><color name="hxz_new_background">#f8f8f8</color><color name="grey_red_f89487">#f89487</color><color name="identifying_btn_disable">#ffb278</color><color name="wb_item_type">#6d6d75</color><color name="grade_score">#fa952f</color><color name="hxz_set_text_color">#858585</color><color name="pay_record_text">#2ac380</color><color name="hxz_check_fault_title">#545454</color><color name="grade_score_detail">#fc6e08</color><color name="hxz_carcheck_graynote">#aaaaaa</color><color name="activate_info_step_text">#d94234</color><color name="order_text_sencond_black">#343434</color><color name="hxz_check_ok_blue">#3597ec</color><color name="red_shallow1">#d63e25</color><color name="red">#EE2F00</color><color name="color_e5e5e5">#e5e5e5</color><color name="vouchers_item_type_name">#b6b6b6</color><color name="in_out_fail_text">#FF2A00</color><color name="shallow_gray_text">#999999</color><color name="question_green">#34c45c</color><color name="map_button_gray">#C0EDECEA</color><color name="text_dark_red">#e3a08e</color><color name="hxz_check_score_blue">#52af82</color><color name="exchange_aa_coin">#08affc</color><color name="order_background_gray">#cccccc</color><color name="home_gray_line">#E7E5E2</color><color name="gray_child_back">#f9f9f9</color></file><file path="E:\workplace_studio\NewDhDemo\superxz_bottom\res\values\dimens.xml" qualifiers=""><dimen name="indicator_corner_radius">12dp</dimen><dimen name="activity_vertical_margin">16dp</dimen><dimen name="indicator_right_padding">10dp</dimen><dimen name="indicator_internal_padding">4dp</dimen><dimen name="header_footer_top_bottom_padding">12dp</dimen><dimen name="activity_horizontal_margin">16dp</dimen><dimen name="header_footer_left_right_padding">24dp</dimen></file><file path="E:\workplace_studio\NewDhDemo\superxz_bottom\res\values\ids.xml" qualifiers=""><item name="scrollview" type="id"/><item name="webview" type="id"/><item name="decode_succeeded" type="id"/><item name="decode" type="id"/><item name="tv_hs_price_2" type="id">401</item><item name="gridview" type="id"/><item name="tv_hs_price_1" type="id">400</item><item name="tv_hs_price_3" type="id">402</item><item name="iv_hs_icon_1" type="id">200</item><item name="decode_failed" type="id"/><item name="iv_hs_icon_2" type="id">201</item><item name="iv_hs_icon_3" type="id">202</item><item name="tv_hs_name_2" type="id">301</item><item name="tv_hs_name_1" type="id">300</item><item name="tv_hs_name_3" type="id">302</item><item name="viewpager" type="id"/><item name="exchange_hint" type="id"/><item name="restart_preview" type="id"/><item name="quit" type="id"/><item name="auto_focus" type="id"/></file><file path="E:\workplace_studio\NewDhDemo\superxz_bottom\res\values\numberpicker_integers.xml" qualifiers=""><integer name="np_config_longAnimTime">500</integer></file><file path="E:\workplace_studio\NewDhDemo\superxz_bottom\res\values\numberpicker_strings.xml" qualifiers=""><string name="np_number_picker_increment_scroll_action">Slide up to increment and down to decrement.</string><string name="np_number_picker_increment_scroll_mode"><ns1:g example="3" id="value">%s</ns1:g> tap and hold.</string><string name="np_number_picker_increment_button">Increment</string><string name="np_number_picker_decrement_button">Decrement</string></file><file path="E:\workplace_studio\NewDhDemo\superxz_bottom\res\values\numberpicker_themes.xml" qualifiers=""><style name="AiWidget.ImageButton">
+        <item name="android:focusable">true</item>
+        <item name="android:clickable">true</item>
+        <item name="android:scaleType">center</item>
+        <item name="android:background">@android:drawable/btn_default</item>
+    </style><style name="AiWidget.EditText">
+        <item name="android:focusable">true</item>
+        <item name="android:focusableInTouchMode">true</item>
+        <item name="android:clickable">true</item>
+        <item name="android:textAppearance">?android:attr/textAppearanceMediumInverse</item>
+        <item name="android:textColor">?android:attr/textColorPrimary</item>
+        <item name="android:gravity">center_vertical</item>
+    </style><style name="AiWidget.ImageButton.NumberPickerUpButton">
+        <item name="android:background">@null</item>
+        <item name="android:src">@drawable/np_numberpicker_up_btn_holo_dark</item>
+        <item name="android:paddingTop">16dip</item>
+        <item name="android:paddingBottom">22dip</item>
+    </style><style name="AiWidget.ImageButton.NumberPickerDownButton.Light" parent="AiWidget.ImageButton.NumberPickerDownButton">
+        <item name="android:src">@drawable/np_numberpicker_down_btn_holo_light</item>
+    </style><style name="AiThemeSample">
+        <item name="numberPickerUpButtonStyle">@style/AiWidget.ImageButton.NumberPickerUpButton</item>
+        <item name="numberPickerDownButtonStyle">@style/AiWidget.ImageButton.NumberPickerDownButton</item>
+        <item name="numberPickerInputTextStyle">@style/AiWidget.EditText.NumberPickerInputText</item>
+        <item name="numberPickerStyle">@style/AiWidget.NumberPicker</item>
+    </style><style name="AiWidget.Light.NumberPicker" parent="AiWidget.NumberPicker"/><attr format="reference" name="numberPickerStyle"/><style name="AiWidget">
+        <item name="android:textAppearance">?android:attr/textAppearance</item>
+    </style><style name="AiThemeSample.Light">
+        <item name="numberPickerUpButtonStyle">@style/AiWidget.ImageButton.NumberPickerUpButton.Light</item>
+        <item name="numberPickerDownButtonStyle">@style/AiWidget.ImageButton.NumberPickerDownButton.Light</item>
+        <item name="numberPickerInputTextStyle">@style/AiWidget.EditText.NumberPickerInputText.Light</item>
+        <item name="numberPickerStyle">@style/AiWidget.NumberPicker</item>
+    </style><attr format="reference" name="numberPickerDownButtonStyle"/><style name="AiWidget.NumberPicker">
+        <item name="android:orientation">vertical</item>
+        <item name="android:fadingEdge">vertical</item>
+        <item name="android:fadingEdgeLength">50dip</item>
+        <item name="solidColor">@android:color/transparent</item>
+        <item name="flingable">true</item>
+        <item name="selectionDivider">@drawable/dialog_set_time_divider</item>
+        <item name="selectionDividerHeight">2dip</item>
+        <item name="android:minWidth">48dip</item>
+        <item name="android:maxHeight">200dip</item>
+    </style><attr format="reference" name="numberPickerInputTextStyle"/><style name="AiWidget.ImageButton.NumberPickerUpButton.Light" parent="AiWidget.ImageButton.NumberPickerUpButton">
+        <item name="android:src">@drawable/np_numberpicker_up_btn_holo_light</item>
+    </style><declare-styleable name="NumberPicker">
+
+        
+        <attr format="color|reference" name="solidColor"/>
+        
+        <attr format="boolean" name="flingable"/>
+        
+        <attr format="reference" name="selectionDivider"/>
+        
+        <attr format="dimension" name="selectionDividerHeight"/>
+        
+        <attr format="dimension" name="selectionDividersDistance"/>
+        
+        <attr name="android:minHeight"/>
+        
+        <attr name="android:maxHeight"/>
+        
+        <attr name="android:minWidth"/>
+        
+        <attr name="android:maxWidth"/>
+
+        
+        <attr name="android:orientation"/>
+        <attr name="android:fadingEdgeLength"/>
+    </declare-styleable><attr format="reference" name="numberPickerUpButtonStyle"/><style name="AiWidget.EditText.NumberPickerInputText.Light" parent="AiWidget.EditText.NumberPickerInputText"/><style name="AiWidget.EditText.NumberPickerInputText">
+        <item name="android:paddingTop">13sp</item>
+        <item name="android:paddingBottom">13sp</item>
+        <item name="android:paddingLeft">2sp</item>
+        <item name="android:paddingRight">2sp</item>
+        <item name="android:gravity">center</item>
+        <item name="android:singleLine">true</item>
+        <item name="android:textSize">18sp</item>
+        <item name="android:background">@null</item>
+    </style><style name="AiWidget.ImageButton.NumberPickerDownButton">
+        <item name="android:background">@null</item>
+        <item name="android:src">@drawable/np_numberpicker_down_btn_holo_dark</item>
+        <item name="android:paddingTop">22dip</item>
+        <item name="android:paddingBottom">16dip</item>
+    </style></file><file path="E:\workplace_studio\NewDhDemo\superxz_bottom\res\values\strings.xml" qualifiers=""><string name="hello_world">Hello world!</string><string name="pull_to_refresh_from_bottom_pull_label">上拉可以刷新</string><string name="pull_to_refresh_from_bottom_release_label">松开获取更多</string><string name="frame_tip_unlogin">未登录</string><string name="frame_tip_response_exception">连接失败，请稍候重试</string><string name="pull_to_refresh_from_bottom_refreshing_label">@string/pull_to_refresh_refreshing_label</string><string name="action_settings">Settings</string><string name="app_name">东汇demo</string><string name="frame_tip_conn_error">连接失败，平台正在维护中!</string><string name="pull_to_refresh_tap_label" translatable="false">点击刷新</string><string name="frame_tip_loading_date">获取数据中,请稍候..."</string><string name="frame_tip_parser_date_exception">连接失败，解析数据格式不正确!</string><string name="frame_tip_no_net">网络连接失败，请确认开启了wifi或手机卡网络!</string><string name="pull_to_refresh_refreshing_label" translatable="false">正在加载中…</string><string name="open_fail">打开失败"</string><string name="frame_tip_response_overtime_exception">连接失败，请求超时</string><string name="pull_to_refresh_pull_label" translatable="false">下拉动可以刷新</string><string name="frame_tip_params_error">连接失败，入参格式不正确！</string><string name="pull_to_refresh_release_label" translatable="false">松开刷新\.\.\.</string></file><file path="E:\workplace_studio\NewDhDemo\superxz_bottom\res\values\styles.xml" qualifiers=""><style name="SwipeActivityTheme" parent="AppBaseTheme1"/><style name="AppTheme" parent="AppBaseTheme">
+        
+    </style><style name="dialog_tip" parent="android:style/Theme.Dialog">
+        <item name="android:windowBackground">@drawable/shape_pop</item>
+        <item name="android:windowNoTitle">true</item>
+    </style><style name="title_btn_back_layout">
+        <item name="android:paddingLeft">15dp</item>
+        <item name="android:layout_width">60dp</item>
+        <item name="android:layout_height">fill_parent</item>
+        <item name="android:layout_alignParentLeft">true</item>
+    </style><style name="hxz_title_relativelayout">
+        <item name="android:layout_width">fill_parent</item>
+        <item name="android:layout_height">50dp</item>
+        <item name="android:background">@android:color/holo_blue_light</item>
+        <item name="android:paddingLeft">15dip</item>
+        <item name="android:paddingRight">15dip</item>
+    </style><style name="AppBaseTheme1" parent="android:Theme.Light.NoTitleBar">
+        <item name="android:windowIsTranslucent">true</item>
+        <item name="android:textColor">#000000</item>
+    </style><style name="AnimFade2" parent="@android:style/Animation.Activity">
+        <item name="android:activityOpenEnterAnimation">@anim/slide_in_from_right</item>
+        <item name="android:activityOpenExitAnimation">@anim/slide_out_to_left</item>
+        <item name="android:activityCloseExitAnimation">@anim/slide_out_to_right</item>
+        <item name="android:activityCloseEnterAnimation">@anim/slide_in_from_left</item>
+    </style><style name="title_name">
+        <item name="android:layout_width">wrap_content</item>
+        <item name="android:layout_height">wrap_content</item>
+        <item name="android:textSize">22sp</item>
+        <item name="android:textColor">@color/white</item>
+        <item name="android:layout_centerInParent">true</item>
+    </style><style name="NoSwipeActivityTheme" parent="android:Theme.Light.NoTitleBar">
+        <item name="android:windowAnimationStyle">@style/AnimFade2</item>
+    </style><style name="title_btn_back">
+        <item name="android:layout_width">wrap_content</item>
+        <item name="android:layout_height">20dp</item>
+        <item name="android:gravity">center_vertical</item>
+        <item name="android:src">@drawable/common_selector_top_back</item>
+        <item name="android:layout_alignParentLeft">true</item>
+        <item name="android:layout_centerVertical">true</item>
+    </style><style name="AppBaseTheme" parent="android:Theme.Light">
+        
+    </style><style name="title_btn_back_white">
+        <item name="android:layout_width">wrap_content</item>
+        <item name="android:layout_height">wrap_content</item>
+        <item name="android:src">@android:color/white</item>
+        <item name="android:layout_alignParentLeft">true</item>
+        <item name="android:layout_centerVertical">true</item>
+    </style></file><file path="E:\workplace_studio\NewDhDemo\superxz_bottom\res\values\themes.xml" qualifiers=""><style name="AiTheme" parent="android:Theme">
+        <item name="numberPickerUpButtonStyle">@style/AiWidget.ImageButton.NumberPickerUpButton</item>
+        <item name="numberPickerDownButtonStyle">@style/AiWidget.ImageButton.NumberPickerDownButton</item>
+        <item name="numberPickerInputTextStyle">@style/AiWidget.EditText.NumberPickerInputText</item>
+        <item name="numberPickerStyle">@style/AiWidget.NumberPicker</item>
+    </style><style name="AiTheme.Light" parent="android:Theme.Light">
+        <item name="numberPickerUpButtonStyle">@style/AiWidget.ImageButton.NumberPickerUpButton.Light</item>
+        <item name="numberPickerDownButtonStyle">@style/AiWidget.ImageButton.NumberPickerDownButton.Light</item>
+        <item name="numberPickerInputTextStyle">@style/AiWidget.EditText.NumberPickerInputText.Light</item>
+        <item name="numberPickerStyle">@style/AiWidget.NumberPicker</item>
+    </style></file><file path="E:\workplace_studio\NewDhDemo\superxz_bottom\res\values-v11\styles.xml" qualifiers="v11"><style name="AppBaseTheme" parent="android:Theme.Holo.Light">
+        
+    </style></file><file path="E:\workplace_studio\NewDhDemo\superxz_bottom\res\values-v14\styles.xml" qualifiers="v14"><style name="AppBaseTheme" parent="android:Theme.Holo.Light.DarkActionBar">
+        
+    </style></file><file path="E:\workplace_studio\NewDhDemo\superxz_bottom\res\values-w820dp\dimens.xml" qualifiers="w820dp-v13"><dimen name="activity_horizontal_margin">64dp</dimen></file></source><source path="E:\workplace_studio\NewDhDemo\superxz_bottom\build\generated\res\rs\debug"/><source path="E:\workplace_studio\NewDhDemo\superxz_bottom\build\generated\res\resValues\debug"/></dataSet><dataSet config="debug" generated-set="debug$Generated"><source path="E:\workplace_studio\NewDhDemo\superxz_bottom\build-types\debug\res"/></dataSet><mergedItems><configuration qualifiers=""><declare-styleable name="PullToRefresh"><attr format="reference|boolean" name="ptrListViewExtrasEnabled"/><attr format="reference|color" name="ptrRefreshableViewBackground"/><attr format="reference|color" name="ptrHeaderBackground"/><attr format="reference|color" name="ptrHeaderTextColor"/><attr format="reference|color" name="ptrHeaderSubTextColor"/><attr name="ptrMode">
+            <flag name="disabled" value="0x0"/>
+            <flag name="pullFromStart" value="0x1"/>
+            <flag name="pullFromEnd" value="0x2"/>
+            <flag name="both" value="0x3"/>
+            <flag name="manualOnly" value="0x4"/>
+
+            
+            <flag name="pullDownFromTop" value="0x1"/>
+            <flag name="pullUpFromBottom" value="0x2"/>
+        </attr><attr format="reference|boolean" name="ptrShowIndicator"/><attr format="reference" name="ptrDrawable"/><attr format="reference" name="ptrDrawableStart"/><attr format="reference" name="ptrDrawableEnd"/><attr format="reference|boolean" name="ptrOverScroll"/><attr format="reference" name="ptrHeaderTextAppearance"/><attr format="reference" name="ptrSubHeaderTextAppearance"/><attr name="ptrAnimationStyle">
+            <flag name="rotate" value="0x0"/>
+            <flag name="flip" value="0x1"/>
+        </attr><attr format="reference|boolean" name="ptrScrollingWhileRefreshingEnabled"/><attr format="reference|boolean" name="ptrRotateDrawableWhilePulling"/><attr format="reference|color" name="ptrAdapterViewBackground"/><attr format="reference" name="ptrDrawableTop"/><attr format="reference" name="ptrDrawableBottom"/></declare-styleable><declare-styleable name="SimpleDraweeView"><attr format="string" name="actualImageUri"/></declare-styleable><declare-styleable name="TitleFlowIndicator"><attr format="dimension" name="titlePadding"/><attr format="dimension" name="clipPadding"/><attr format="color" name="selectedColor"/><attr format="boolean" name="selectedBold"/><attr format="dimension" name="selectedSize"/><attr format="color" name="textColor"/><attr format="dimension" name="textSize"/><attr format="dimension" name="footerLineHeight"/><attr format="color" name="footerColor"/><attr format="dimension" name="footerTriangleHeight"/><attr format="string" name="customTypeface"/></declare-styleable><declare-styleable name="NumberPicker"><attr format="color|reference" name="solidColor"/><attr format="boolean" name="flingable"/><attr format="reference" name="selectionDivider"/><attr format="dimension" name="selectionDividerHeight"/><attr format="dimension" name="selectionDividersDistance"/><attr name="android:minHeight"/><attr name="android:maxHeight"/><attr name="android:minWidth"/><attr name="android:maxWidth"/><attr name="android:orientation"/><attr name="android:fadingEdgeLength"/></declare-styleable><declare-styleable name="swipelistviewstyle"><attr format="dimension" name="right_width"/></declare-styleable><declare-styleable name="GenericDraweeHierarchy"><attr format="integer" name="fadeDuration"/><attr format="float" name="viewAspectRatio"/><attr format="reference" name="placeholderImage"/><attr name="placeholderImageScaleType"><enum name="none" value="-1"/><enum name="fitXY" value="0"/><enum name="fitStart" value="1"/><enum name="fitCenter" value="2"/><enum name="fitEnd" value="3"/><enum name="center" value="4"/><enum name="centerInside" value="5"/><enum name="centerCrop" value="6"/><enum name="focusCrop" value="7"/></attr><attr format="reference" name="retryImage"/><attr name="retryImageScaleType"><enum name="none" value="-1"/><enum name="fitXY" value="0"/><enum name="fitStart" value="1"/><enum name="fitCenter" value="2"/><enum name="fitEnd" value="3"/><enum name="center" value="4"/><enum name="centerInside" value="5"/><enum name="centerCrop" value="6"/><enum name="focusCrop" value="7"/></attr><attr format="reference" name="failureImage"/><attr name="failureImageScaleType"><enum name="none" value="-1"/><enum name="fitXY" value="0"/><enum name="fitStart" value="1"/><enum name="fitCenter" value="2"/><enum name="fitEnd" value="3"/><enum name="center" value="4"/><enum name="centerInside" value="5"/><enum name="centerCrop" value="6"/><enum name="focusCrop" value="7"/></attr><attr format="reference" name="progressBarImage"/><attr name="progressBarImageScaleType"><enum name="none" value="-1"/><enum name="fitXY" value="0"/><enum name="fitStart" value="1"/><enum name="fitCenter" value="2"/><enum name="fitEnd" value="3"/><enum name="center" value="4"/><enum name="centerInside" value="5"/><enum name="centerCrop" value="6"/><enum name="focusCrop" value="7"/></attr><attr format="integer" name="progressBarAutoRotateInterval"/><attr name="actualImageScaleType"><enum name="none" value="-1"/><enum name="fitXY" value="0"/><enum name="fitStart" value="1"/><enum name="fitCenter" value="2"/><enum name="fitEnd" value="3"/><enum name="center" value="4"/><enum name="centerInside" value="5"/><enum name="centerCrop" value="6"/><enum name="focusCrop" value="7"/></attr><attr format="reference" name="backgroundImage"/><attr format="reference" name="overlayImage"/><attr format="reference" name="pressedStateOverlayImage"/><attr format="boolean" name="roundAsCircle"/><attr format="dimension" name="roundedCornerRadius"/><attr format="boolean" name="roundTopLeft"/><attr format="boolean" name="roundTopRight"/><attr format="boolean" name="roundBottomRight"/><attr format="boolean" name="roundBottomLeft"/><attr format="color" name="roundWithOverlayColor"/><attr format="dimension" name="roundingBorderWidth"/><attr format="color" name="roundingBorderColor"/><attr format="dimension" name="roundingBorderPadding"/></declare-styleable><declare-styleable name="ViewFlow"><attr format="integer" name="sidebuffer"/></declare-styleable><declare-styleable name="FormIcon"><attr format="reference" name="img"/><attr format="string" name="text"/></declare-styleable><declare-styleable name="CircleImageView"><attr format="dimension" name="border_width"/><attr format="color" name="border_color"/></declare-styleable><declare-styleable name="CircleFlowIndicator"><attr format="color" name="activeColor"/><attr format="color" name="inactiveColor"/><attr format="dimension" name="radius"/><attr format="boolean" name="centered"/><attr format="integer" name="fadeOut"/><attr name="inactiveType">
+            <flag name="stroke" value="0"/>
+            <flag name="fill" value="1"/>
+        </attr><attr name="activeType">
+            <flag name="stroke" value="0"/>
+            <flag name="fill" value="1"/>
+        </attr></declare-styleable><declare-styleable name="CustomButton"><attr format="color" name="clickeffect"/><attr format="color" name="textclickeffect"/><attr format="color" name="customBackground"/><attr format="color" name="customTextColor"/><attr format="boolean" name="fillet"/><attr format="float" name="customRadius"/></declare-styleable><declare-styleable name="HorizontalListView"><attr format="dimension" name="dividerWidth"/><attr name="android:divider"/><attr name="android:requiresFadingEdge"/><attr name="android:fadingEdgeLength"/></declare-styleable><declare-styleable name="roundedimageview"><attr format="dimension" name="border_thickness"/><attr format="color" name="border_inside_color"/><attr format="color" name="border_outside_color"/></declare-styleable><declare-styleable name="RoundProgressBar"><attr format="color" name="roundColor"/><attr format="color" name="roundProgressColor"/><attr format="dimension" name="roundWidth"/><attr format="color" name="scoretextColor"/><attr format="dimension" name="scoretextSize"/><attr format="integer" name="max"/><attr format="boolean" name="textIsDisplayable"/><attr format="boolean" name="isHaveGap"/><attr format="integer" name="gapStart"/><attr format="integer" name="gapAngle"/><attr name="style">
+            <enum name="STROKE" value="0"/>
+            <enum name="FILL" value="1"/>
+        </attr></declare-styleable></configuration></mergedItems></merger>

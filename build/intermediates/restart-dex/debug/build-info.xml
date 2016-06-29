@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="utf-8"?>
+<instant-run
+    abi="arm64-v8a,armeabi,armeabi-v7a"
+    api-level="23"
+    density="xxhdpi"
+    format="8"
+    timestamp="1365590615608673"
+    token="-153419742782026074"
+    verifier="COLD_SWAP_REQUESTED" >
+
+    <task
+        name="javac"
+        duration="0" />
+    <task
+        name="instant-run-dex"
+        duration="0" />
+    <task
+        name="instant-run-transform"
+        duration="0" />
+    <task
+        name="verifier"
+        duration="0" />
+
+    <artifact
+        location="E:\workplace_studio\NewDhDemo\superxz_bottom\build\intermediates\transforms\dex\debug\folders\1000\5\slice_3\classes.dex"
+        type="DEX" />
+
+    <build
+        timestamp="1365402966185428"
+        verifier="FULL_BUILD_REQUESTED" >
+        <artifact
+            location="E:\workplace_studio\NewDhDemo\superxz_bottom\build\outputs\apk\superxz_bottom-debug.apk"
+            type="MAIN" />
+    </build>
+    <build
+        timestamp="1365528166548420"
+        verifier="COMPATIBLE" >
+        <artifact
+            location="E:\workplace_studio\NewDhDemo\superxz_bottom\build\intermediates\builds\debug\1365528166548420\classes.dex"
+            type="RELOAD_DEX" />
+    </build>
+    <build timestamp="1365579699770050" >
+        <artifact
+            location="E:\workplace_studio\NewDhDemo\superxz_bottom\build\intermediates\res\resources-debug.ap_"
+            type="RESOURCES" />
+    </build>
+    <build
+        timestamp="1365590615608673"
+        verifier="COLD_SWAP_REQUESTED" >
+        <artifact
+            location="E:\workplace_studio\NewDhDemo\superxz_bottom\build\intermediates\transforms\dex\debug\folders\1000\5\slice_3\classes.dex"
+            type="DEX" />
+    </build>
+
+</instant-run>
